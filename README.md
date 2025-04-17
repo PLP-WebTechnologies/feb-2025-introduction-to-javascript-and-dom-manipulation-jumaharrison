@@ -16,6 +16,11 @@ Respond to user interactions.
 >  - Changes text content dynamically.
 >  - Modifies CSS styles via JavaScript.
 >  - Adds or removes an element when a button is clicked.
+>    Tasks
+Create a well-structured HTML5 document.
+Use at least 5 different HTML elements.
+Ensure semantic correctness.
+Happy Coding! 💻✨
 
 <!DOCTYPE html>
 <html lang="en">
@@ -101,9 +106,4 @@ document.getElementById("toggleReviewBtn").addEventListener("click", () => {
     reviews.appendChild(newReview);
   }
 });
-# Tasks
-- Create a well-structured HTML5 document.
-- Use at least 5 different HTML elements.
-- Ensure semantic correctness.
 
-Happy Coding! 💻✨
